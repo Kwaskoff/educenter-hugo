@@ -70,8 +70,11 @@ link = "plugins/slick/slick.css"
 link = "plugins/animate/animate.css"
 [[params.plugins.css]]
 link = "plugins/venobox/venobox.css"
+#[[params.plugins.css]]
+#link = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
-link = "plugins/themify-icons/themify-icons.css"
+link = "plugins/fontawesome/css/all.css"
+
 
 # JS Plugins
 [[params.plugins.js]]
@@ -132,29 +135,15 @@ expire_days = 2
   
 ############################# social site ########################
 [[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+title = "telegram"
+icon = "fa-brands fa-telegram" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 [[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+title = "vk"
+icon = "fa-brands fa-vk" # themify icon : https://themify.me/themify-icons
 link = "#"
 
-[[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
 
 
 ################################### English language #####################################

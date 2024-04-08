@@ -184,38 +184,38 @@ name = "Услуги"
 url = "course/"
 weight = 2
 
-[[Languages.en.menu.main]]
-weight = 3
-name = "Остальное"
-hasChildren = true
+#[[Languages.en.menu.main]]
+#weight = 3
+#name = "Остальное"
+#hasChildren = true
 
-  [[Languages.en.menu.main]]
-  parent = "Остальное"
-  name = "teacher"
-  url = "teacher/"
+#  [[Languages.en.menu.main]]
+#  parent = "Остальное"
+#  name = "teacher"
+#  url = "teacher/"
 
-  [[Languages.en.menu.main]]
-  parent = "Остальное"
-  name = "notice"
-  url = "notice/"
+#  [[Languages.en.menu.main]]
+#  parent = "Остальное"
+#  name = "notice"
+#  url = "notice/"
 
-  [[Languages.en.menu.main]]
-  parent = "Остальное"
-  name = "event"
-  url = "event/"
+#  [[Languages.en.menu.main]]
+#  parent = "Остальное"
+#  name = "event"
+#  url = "event/"
 
-  [[Languages.en.menu.main]]
-  parent = "Остальное"
-  name = "scholarship"
-  url = "scholarship/"
+# [[Languages.en.menu.main]]
+#  parent = "Остальное"
+#  name = "scholarship"
+#  url = "scholarship/"
 
-  [[Languages.en.menu.main]]
-  parent = "Остальное"
-  name = "research"
-  url = "research/"
+#  [[Languages.en.menu.main]]
+#  parent = "Остальное"
+#  name = "research"
+#  url = "research/"
   
 [[Languages.en.menu.main]]
-name = "Пресс-центр"
+name = "Отзывы"
 url = "blog/"
 weight = 4
   

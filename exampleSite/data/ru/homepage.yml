@@ -4,14 +4,14 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Votre brillant avenir est notre mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Комплексные юридические услуги"
+      content : "Только Юридическая фирма предлагает уникальный для юридических услуг сервис «личный кабинет клиента» с индивидуальным доступом и особой системой защиты данных. Благодаря данному сервису клиент может получать информацию о своих делах в режиме он-лайн в удобное время и в удобном месте."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Postuler maintenant"
+        label : "Сотрудничать"
         link : "contact/"
 
     # slider item loop

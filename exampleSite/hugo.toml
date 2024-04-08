@@ -13,8 +13,7 @@ googleAnalytics = "UA-123456-78" # example: UA-123456-78, for more info, read th
 # disqus short name
 disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
 # disable language
-disableLanguages = [
-] # example: ["ru"] for disable  language. see https://gohugo.io/content-management/multilingual/
+disableLanguages = ["Ru"] # example: ["ru"] for disable  language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 
 ############################# Build ##############################
@@ -161,12 +160,12 @@ link = "#"
 ################################### English language #####################################
 [Languages.en]
 languageName = "En"
-languageCode = "en-us"
+languageCode = "ru-ru"
 contentDir = "content/english"
 weight = 1
 
 [Languages.en.params]
-home = "Home"
+home = "Главная"
 # copyright
 copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
 
@@ -176,52 +175,52 @@ copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefi
 
 # main menu
 [[Languages.en.menu.main]]
-name = "About"
+name = "О компании"
 url = "about/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "course"
+name = "Услуги"
 url = "course/"
 weight = 2
 
 [[Languages.en.menu.main]]
 weight = 3
-name = "Pages"
+name = "Остальное"
 hasChildren = true
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Остальное"
   name = "teacher"
   url = "teacher/"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Остальное"
   name = "notice"
   url = "notice/"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Остальное"
   name = "event"
   url = "event/"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Остальное"
   name = "scholarship"
   url = "scholarship/"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Остальное"
   name = "research"
   url = "research/"
   
 [[Languages.en.menu.main]]
-name = "blog"
+name = "Пресс-центр"
 url = "blog/"
 weight = 4
   
 [[Languages.en.menu.main]]
-name = "Contact"
+name = "Контакты"
 url = "contact/"
 weight = 5
 
@@ -258,7 +257,7 @@ contentDir = "content/russian"
 weight = 2
 
 [Languages.ru.params]
-home = "Accueil"
+home = "Главная"
 # copyright
 copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
 
@@ -268,52 +267,52 @@ copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefi
 
 # main menu
 [[Languages.ru.menu.main]]
-name = "À propos"
+name = "О компании"
 url = "about/"
 weight = 1
 
 [[Languages.ru.menu.main]]
-name = "Cours"
+name = "Услуги"
 url = "course/"
 weight = 2
 
 [[Languages.ru.menu.main]]
 weight = 3
-name = "Pages"
+name = "Остальное"
 hasChildren = true
 
   [[Languages.ru.menu.main]]
-  parent = "Pages"
+  parent = "Остальное"
   name = "teacher"
   url = "teacher/"
 
   [[Languages.ru.menu.main]]
-  parent = "Pages"
+  parent = "Остальное"
   name = "notice"
   url = "notice/"
 
   [[Languages.ru.menu.main]]
-  parent = "Pages"
+  parent = "Остальное"
   name = "Évènement"
   url = "event/"
 
   [[Languages.ru.menu.main]]
-  parent = "Pages"
+  parent = "Остальное"
   name = "Cursus"
   url = "scholarship/"
 
   [[Languages.ru.menu.main]]
-  parent = "Pages"
+  parent = "Остальное"
   name = "research"
   url = "research/"
   
 [[Languages.ru.menu.main]]
-name = "blog"
+name = "Пресс-центр"
 url = "blog/"
 weight = 4
   
 [[Languages.ru.menu.main]]
-name = "Contact"
+name = "Контакты"
 url = "contact/"
 weight = 5
 

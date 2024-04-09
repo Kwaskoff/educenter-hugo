@@ -144,6 +144,10 @@ title = "vk"
 icon = "fa-brands fa-vk" # themify icon : https://themify.me/themify-icons
 link = "https://vk.com/lawful_cause"
 
+[[params.social]]
+title = "whatsapp"
+icon = "fa-brands fa-whatsapp" # themify icon : https://themify.me/themify-icons
+link = "https://fa-brands/fa-whatsapp"
 
 
 ################################### English language #####################################

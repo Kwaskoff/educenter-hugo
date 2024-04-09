@@ -137,12 +137,12 @@ expire_days = 2
 [[params.social]]
 title = "telegram"
 icon = "fa-brands fa-telegram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://t.me/lawful_cause"
 
 [[params.social]]
 title = "vk"
 icon = "fa-brands fa-vk" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://vk.com/lawful_cause"
 
 
 

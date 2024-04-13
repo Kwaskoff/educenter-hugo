@@ -100,7 +100,7 @@ author = "Themefisher"
 # contact info
 address = "9567 Turner Trace Apt. BC C3G8A4"
 mobile = "+7 (495) 294-55-11"
-email = "info@educenter.com"
+#email = "info@educenter.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs

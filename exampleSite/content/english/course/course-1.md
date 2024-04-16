@@ -11,7 +11,7 @@ image: "images/courses/course-1.jpg"
 # course fee
 fee : "5000₽"
 # apply url
-apply_url : "#"
+apply_url : "/contact/"
 # type
 type: "course"
 ---

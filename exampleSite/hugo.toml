@@ -312,22 +312,22 @@ weight = 5
 
 # footer menu
 
-[[Languages.ru.menu.footer]]
-name = "teacher"
-url = "teacher/"
+#[[Languages.ru.menu.footer]]
+#name = "teacher"
+#url = "teacher/"
 
-[[Languages.ru.menu.footer]]
-name = "notice"
-url = "notice/"
+#[[Languages.ru.menu.footer]]
+#name = "notice"
+#url = "notice/"
 
-[[Languages.ru.menu.footer]]
-name = "event"
-url = "event/"
+#[[Languages.ru.menu.footer]]
+#name = "event"
+#url = "event/"
 
-[[Languages.ru.menu.footer]]
-name = "scholarship"
-url = "scholarship/"
+#[[Languages.ru.menu.footer]]
+#name = "scholarship"
+#url = "scholarship/"
 
-[[Languages.ru.menu.footer]]
-name = "research"
-url = "research/"
+#[[Languages.ru.menu.footer]]
+#name = "research"
+#url = "research/"

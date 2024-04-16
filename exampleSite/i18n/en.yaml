@@ -80,7 +80,7 @@
   translation: Enter your email…
 
 - id: company
-  translation: company
+  translation: О компании
 
 - id: links
   translation: links
@@ -92,7 +92,7 @@
   translation: new notice
 
 - id: call
-  translation: call
+  translation: телефон
 
 - id: email
   translation: email

@@ -99,8 +99,9 @@ description = "This is meta description"
 author = "Themefisher"
 # contact info
 address = "101000, г. Москва, Армянский переулок, 3-5, строение 2. Метро Лубянка, Китай-город, Тургеневская, офис находится напротив посольства Армении"
-mobile = "+7 (495) 294-55-11"
-#email = "info@educenter.com"
+mobile = "+7 (495) 294-55-11, +7 9933504664 (WhatsApp)"
+phone = "+7 (495) 294-55-11, +7 9933504664 (WhatsApp)"
+email = "nashepravoedelo@gmail.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs

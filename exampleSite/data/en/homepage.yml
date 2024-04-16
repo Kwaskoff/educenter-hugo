@@ -4,8 +4,8 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Комплексные юридические услуги"
-      content : "Только Юридическая фирма предлагает уникальный для юридических услуг сервис «личный кабинет клиента» с индивидуальным доступом и особой системой защиты данных. Благодаря данному сервису клиент может получать информацию о своих делах в режиме он-лайн в удобное время и в удобном месте."
+    - title : "Доступная юридическая поддержка"
+      content : "граждан РФ, иностранных граждан, лиц без гражданства"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -15,8 +15,8 @@ slider:
         link : "contact/"
 
     # slider item loop
-    - title : "Комплексные юридические услуги"
-      content : "Только Юридическая фирма предлагает уникальный для юридических услуг сервис «личный кабинет клиента» с индивидуальным доступом и особой системой защиты данных. Благодаря данному сервису клиент может получать информацию о своих делах в режиме он-лайн в удобное время и в удобном месте."
+    - title : "Эффективная юридическая поддержка"
+      content : "предприятий и организаций во всех сферах права."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -98,31 +98,31 @@ slider:
 
   
 ########################### funfacts ############################
-funfacts:
-  enable : true
-  funfact_item:
+#funfacts:
+#  enable : true
+#  funfact_item:
     # funfact item loop
-    - name : "ENSEIGNANTS"
-      count : "60"
+#    - name : "ENSEIGNANTS"
+#      count : "60"
 
     # funfact item loop
-    - name : "COURS"
-      count : "50"
+#    - name : "COURS"
+#      count : "50"
 
     # funfact item loop
-    - name : "ÉTUDIANTS"
-      count : "1000"
+#    - name : "ÉTUDIANTS"
+#      count : "1000"
 
     # funfact item loop
-    - name : "CLIENTS SATISFAITS"
-      count : "1400"
+#    - name : "CLIENTS SATISFAITS"
+#      count : "1400"
 
 # funfact is for about page
 
 
 
 ############################# blog ################################
-blog:
-  enable : true
-  title : "DERNIÈRES NOUVELLES"
+#blog:
+#  enable : true
+#  title : "DERNIÈRES NOUVELLES"
   # blog item comes from "content/**/blog" folder.

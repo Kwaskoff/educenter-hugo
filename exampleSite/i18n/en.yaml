@@ -86,10 +86,10 @@
   translation: links
 
 - id: courses
-  translation: Courses
+  translation: Услуги
 
 - id: new_notice
-  translation: new notice
+  translation: отзывы
 
 - id: call
   translation: телефон

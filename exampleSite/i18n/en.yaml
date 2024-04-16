@@ -32,7 +32,7 @@
   translation: See all
 
 - id: apply_now
-  translation: Apply now
+  translation: Заказать
 
 - id: posted_by
   translation: Posted by
@@ -47,7 +47,7 @@
   translation: Category
 
 - id: related_course
-  translation: Related Course
+  translation: другие услуги
 
 - id: duration
   translation: duration
@@ -56,7 +56,7 @@
   translation: weekly
 
 - id: fee
-  translation: fee
+  translation: стоимость
 
 - id: teacher
   translation: teacher

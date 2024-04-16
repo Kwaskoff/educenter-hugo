@@ -220,25 +220,25 @@ weight = 5
 
 # footer menu
 
-[[Languages.en.menu.footer]]
-name = "teacher"
-url = "teacher/"
+#[[Languages.en.menu.footer]]
+#name = "teacher"
+#url = "teacher/"
 
-[[Languages.en.menu.footer]]
-name = "notice"
-url = "notice/"
+#[[Languages.en.menu.footer]]
+#name = "notice"
+#url = "notice/"
 
-[[Languages.en.menu.footer]]
-name = "event"
-url = "event/"
+#[[Languages.en.menu.footer]]
+#name = "event"
+#url = "event/"
 
-[[Languages.en.menu.footer]]
-name = "scholarship"
-url = "scholarship/"
+#[[Languages.en.menu.footer]]
+#name = "scholarship"
+#url = "scholarship/"
 
-[[Languages.en.menu.footer]]
-name = "research"
-url = "research/"
+#[[Languages.en.menu.footer]]
+#name = "research"
+#url = "research/"
 
 
 
